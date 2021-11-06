@@ -1,17 +1,16 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luisotaviop/)](https://www.linkedin.com/in/luisotaviop/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:luisot2104@gmail.com)](mailto:luisot2104@gmail.com)
 
-### Welcome!
+### Welcome to my profile!
 
 I'm a web developer, currently venturing and falling in <b>love</b> with mobile development. In this profile you will find some of my work and crazy projects, don't be scared.
 Thanks!
 
- <div>
-  <a href="https://github.com/luis-otvio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luis-otvio&show_icons=true&theme=gotham"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis-otvio&layout=compact&theme=gotham"/>
-<div>
- <p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luis-otvio&count_private=true&show_icons=true&hide=prs,issues,contribs&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luis-otvio&count_private=true&hide=html,swift,kotlin,objective-c&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+
+<p>
   
 #### App Development
    
