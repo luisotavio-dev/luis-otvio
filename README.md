@@ -6,9 +6,9 @@
 I'm a web developer, currently venturing and falling in <b>love</b> with mobile development. In this profile you will find some of my work and crazy projects, don't be scared.
 Thanks!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luis-otvio&count_private=true&show_icons=true&hide=prs,issues,contribs&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats-7vl1dt21w-luis-otvio.vercel.app/api?username=luis-otvio&count_private=true&show_icons=true&hide=prs,issues,contribs&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luis-otvio&count_private=true&hide=html,swift,kotlin,objective-c&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-7vl1dt21w-luis-otvio.vercel.app/api/top-langs/?username=luis-otvio&count_private=true&hide=html,swift,kotlin,objective-c&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>
   
